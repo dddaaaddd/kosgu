@@ -6,7 +6,7 @@ print "Kosgu Bot has been started."
 
 import telebot
 
-API_TOKEN = '<194600361:AAEqhhfoTp5PHcvB4ldU9kCTWEaXqXufmxM>'
+API_TOKEN = '194600361:AAEqhhfoTp5PHcvB4ldU9kCTWEaXqXufmxM'
 
 bot = telebot.TeleBot(API_TOKEN)
 
