@@ -1,12 +1,12 @@
 # This is a simple echo bot using the decorator mechanism.
 # It echoes any incoming text messages.
 
-print "Python Bot By Arash @ArashEmp [109722284]{LionTeam}"
+print "Python Bot By √ Mr.radical √ @sina7sk [114934518]{LionTeam}"
 print "Kosgu Bot has been started."
 
 import telebot
 
-API_TOKEN = '<YourToken>'
+API_TOKEN = '<194600361:AAEqhhfoTp5PHcvB4ldU9kCTWEaXqXufmxM>'
 
 bot = telebot.TeleBot(API_TOKEN)
 
